@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentMarkssix {
+public class StudentMark {
 public static void main(String[] args) {
 	Scanner sc =new Scanner(System.in);
 //	This program allows the user to enter 3 test marks of a student, 
